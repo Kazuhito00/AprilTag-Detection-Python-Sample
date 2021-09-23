@@ -1,3 +1,5 @@
+[Japanese/[English](https://github.com/Kazuhito00/AprilTag-Detection-Python-Sample//blob/main/README_EN.md)]
+
 # AprilTag-Detection-Python-Sample
 [AprilTag](https://april.eecs.umich.edu/software/apriltag)のPythonでの検出サンプルです。<br>
 検出には[pupil-labs/apriltags](https://github.com/pupil-labs/apriltags)を利用しています。<br>
