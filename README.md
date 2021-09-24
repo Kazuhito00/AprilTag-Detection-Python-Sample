@@ -19,7 +19,7 @@ pip install pupil-apriltags
 # Tags
 タグ画像は以下から入手してください。
 * [AprilRobotics/apriltag-imgs](https://github.com/AprilRobotics/apriltag-imgs)
-* [rgov/apriltag-pdfs](https://github.com/rgov/apriltag-pdfs
+* [rgov/apriltag-pdfs](https://github.com/rgov/apriltag-pdfs)
 
 PDF化したものを[pdf](https://github.com/Kazuhito00/AprilTag-Detection-Sample/tree/main/pdf)ディレクトリにも格納しています
 
