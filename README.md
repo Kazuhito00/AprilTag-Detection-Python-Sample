@@ -21,7 +21,7 @@ pip install pupil-apriltags
 * [AprilRobotics/apriltag-imgs](https://github.com/AprilRobotics/apriltag-imgs)
 * [rgov/apriltag-pdfs](https://github.com/rgov/apriltag-pdfs)
 
-PDF化したものを[pdf](https://github.com/Kazuhito00/AprilTag-Detection-Sample/tree/main/pdf)ディレクトリにも格納しています
+デモで使用した画像は[pdf](https://github.com/Kazuhito00/AprilTag-Detection-Sample/tree/main/pdf)ディレクトリに格納しています
 
 # Demo
 デモの実行方法は以下です。
