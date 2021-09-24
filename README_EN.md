@@ -21,7 +21,7 @@ Please obtain the tag image from the following.
 * [AprilRobotics/apriltag-imgs](https://github.com/AprilRobotics/apriltag-imgs)
 * [rgov/apriltag-pdfs](https://github.com/rgov/apriltag-pdfs)
 
-The PDF version is also stored in the [pdf](https://github.com/Kazuhito00/AprilTag-Detection-Sample/tree/main/pdf) directory.
+The images used in the demo are stored in the [pdf](https://github.com/Kazuhito00/AprilTag-Detection-Sample/tree/main/pdf) directory.
 
 # Demo
 Here's how to run the demo.
